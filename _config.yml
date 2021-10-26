@@ -4,6 +4,7 @@ social_link: twitter
 social_username: Ipalnepohuani
 github_repo: adrian_hrodveltz
 github_username: Adrian-Hrodveltz
+theme: jekyll-athena
 theme_color: dark
 remote_theme: internet-de-france/athena
 baseurl: /adrian_hrodveltz
